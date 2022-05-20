@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//Halidas81.github.io/hw-19/static/css/main.073c9b0a.css",
+    "main.js": "/http//Halidas81.github.io/hw-19/static/js/main.b290c17e.js",
+    "index.html": "/http//Halidas81.github.io/hw-19/index.html",
+    "main.073c9b0a.css.map": "/http//Halidas81.github.io/hw-19/static/css/main.073c9b0a.css.map",
+    "main.b290c17e.js.map": "/http//Halidas81.github.io/hw-19/static/js/main.b290c17e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b290c17e.js"
+  ]
+}
